@@ -1,2 +1,0 @@
-# reactfetchingdatadariAPI
-Created with CodeSandbox
